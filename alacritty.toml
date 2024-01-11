@@ -1,0 +1,10 @@
+import = ["/home/racl/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 8
+
+[font.normal]
+family = "IosevkaTermNF"
